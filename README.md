@@ -1,4 +1,4 @@
-# Study project - Expense tracker
+# Study project - [Expense tracker](https://victoriiashtyreva.github.io/Expense-tracker/)
 
 * Creator: [Viktoriia Shtyreva](https://github.com/VictoriiaShtyreva)
 _____
