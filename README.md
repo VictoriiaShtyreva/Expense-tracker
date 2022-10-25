@@ -6,7 +6,8 @@ Implemented the following features:
 - :white_check_mark: Declarative approuch;
 - :white_check_mark: Components tree;
 - :white_check_mark: User intereaction (using states);
-- :white_check_mark: Add data and rendering list of data.
+- :white_check_mark: Add data and rendering list of data;
+- :white_check_mark: Hosting GitHub pages.
 
 ## How it use:
 
